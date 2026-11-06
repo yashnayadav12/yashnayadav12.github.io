@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Exploring Professional Licenses in Illinois"
