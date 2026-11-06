@@ -4,7 +4,6 @@ title: "Exploring Professional Licenses in Illinois"
 permalink: /hw7/
 ---
 
-# Exploring Professional Licenses in Illinois
 
 For this assignment, I used an Illinois professional licensing dataset to look at which types of licenses appear most often and how their statuses compare. I created two charts using Python, Pandas, and Altair.
 
